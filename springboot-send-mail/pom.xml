@@ -82,6 +82,7 @@
 
     <!--构建管理-->
     <build>
+      <finalName>springboot-send-mail</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
